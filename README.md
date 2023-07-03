@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/7f4fc8de0a2289c1a7851.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/186dc69cb2d73df0c4eaa.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">ZeroBotz - MD</h1>
 
